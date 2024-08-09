@@ -14,9 +14,9 @@ tweets that originates from Dayton region.
 tweets of the company.
 
 ## INFORMATION
-* This project has following two files:
-* main.py
-* const.py
+➢ This project has following two files:
+   * main.py
+   * const.py
 
 ### • Brief description on two files:
 ➢ main.py: the main file has following functions,
