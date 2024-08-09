@@ -2,16 +2,13 @@
 
 ## CONFIGURATION REQUIREMENT
 * Python 3.9
-* Unzip the file patel-as2.zip to get the python executable files.
+* Packages listed below needs to be added for project to execute successfuly
 
 ## COMPILATION & EXECUTION
-* Change the twitter keys in patel_const.py file.
-* Run the patel_main.py file.
-* And the code will display the profile information for a list of users, friends and first 20
-followers of users, first 50 tweets that contains keywords [Ohio, weather] and first 50
-tweets that originates from Dayton region.
-* For the TASK 4 it will ask for the user input for Email ID to send the positive and negative
-tweets of the company.
+* Add your twitter keys and tokens in const.py file.
+* Run the main.py file.
+* And the code will display the profile information for a list of users, friends and first 20 followers of users, first 50 tweets that contains keywords [Ohio, weather] and first 50 tweets that originates from Dayton region.
+* Additionally, it performs Sentiment Analysis on the 5 e-Commerce companies and send the first 20 positive and negative tweets of the company having maximum positive tweets to the provided email address.
 
 ## INFORMATION
 ➢ This project has following two files:
